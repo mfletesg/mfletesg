@@ -138,7 +138,6 @@ Here are some ideas to get you started:
 
 - <h3>Cybersecurity tools</h3>
     <img src = "https://img.shields.io/badge/kali%20Linux-%23000000?style=for-the-badge&logo=kali%20linux&logoColor=white" alt = "nano" />
-    <img src = "https://img.shields.io/badge/John%20the%20Ripper-%23000000?style=for-the-badge&logo=htmx&logoColor=white" alt = "nano" />
     <img src = "https://img.shields.io/badge/linset-%23000000?style=for-the-badge&logo=hyper&logoColor=white" alt = "linset" />
     <img src = "https://img.shields.io/badge/Aircrackng-%23000000?style=for-the-badge&logo=hyper&logoColor=white" alt = "Aircrackng" />
     <img src = "https://img.shields.io/badge/reaver%20wps-%23000000?style=for-the-badge&logo=hyper&logoColor=white" alt = "reaver" />
