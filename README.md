@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-## <img src="./img/bar.gif" width ="25"><b> Skills</b>
+## <img src="./img/code.webp" width ="25"><b> Skills</b>
 <br>
 
 
@@ -118,7 +118,7 @@ Here are some ideas to get you started:
   <img src = "https://img.shields.io/badge/adobe%20illustrator-%23cc7c02?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt = "illustrator" />
   <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
   <img src = "https://img.shields.io/badge/adobe%20photoshop-%230d4de0.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
-    <img src = "https://img.shields.io/badge/adobe%20xd-%23141414.svg?style=for-the-badge&logo=adobe%20xd&logoColor=white" alt = "adobe%20xd" />
+  <img src = "https://img.shields.io/badge/adobe%20xd-%23141414.svg?style=for-the-badge&logo=adobe%20xd&logoColor=white" alt = "adobe%20xd" />
 
 
 - <h3>Tools</h3>
@@ -135,3 +135,14 @@ Here are some ideas to get you started:
   <img src = "https://img.shields.io/badge/Insomnia-%23590f5eff?style=for-the-badge&logo=Insomnia&logoColor=white" alt = "Insomnia" />
   <img src = "https://img.shields.io/badge/swagger-%23258a15ff?style=for-the-badge&logo=swagger&logoColor=white" alt = "swagger" />
   <img src = "https://img.shields.io/badge/nano-%23000000?style=for-the-badge&logo=nano&logoColor=white" alt = "nano" />
+
+- <h3>Cybersecurity tools</h3>
+    <img src = "https://img.shields.io/badge/kali%20Linux-%23000000?style=for-the-badge&logo=kali%20linux&logoColor=white" alt = "nano" />
+    <img src = "https://img.shields.io/badge/John%20the%20Ripper-%23000000?style=for-the-badge&logo=htmx&logoColor=white" alt = "nano" />
+    <img src = "https://img.shields.io/badge/linset-%23000000?style=for-the-badge&logo=hyper&logoColor=white" alt = "linset" />
+    <img src = "https://img.shields.io/badge/Aircrackng-%23000000?style=for-the-badge&logo=hyper&logoColor=white" alt = "Aircrackng" />
+    <img src = "https://img.shields.io/badge/reaver%20wps-%23000000?style=for-the-badge&logo=hyper&logoColor=white" alt = "reaver" />
+    <img src = "https://img.shields.io/badge/Goysript-%23000000?style=for-the-badge&logo=hyper&logoColor=white" alt = "Goysript" />
+    <img src = "https://img.shields.io/badge/Wireshark-%23000000?style=for-the-badge&logo=Wireshark&logoColor=white" alt = "Wireshark" />
+    <img src = "https://img.shields.io/badge/burpsuite-%23000000?style=for-the-badge&logo=burpsuite&logoColor=white" alt = "burpsuite" />
+    <img src = "https://img.shields.io/badge/hydra-%23000000?style=for-the-badge&logo=hyper&logoColor=white" alt = "hydra" />
