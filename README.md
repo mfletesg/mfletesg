@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 - 🐧Proficiency in Linux distributions for software development with terminal (Ubuntu).
 
-<h3> Languages </h3>
+- <h3> Languages </h3>
   <img src = "https://img.shields.io/badge/php-%234f5b93ff?style=for-the-badge&logo=php&logoColor=white" alt = "php" />
   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
   <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" />
@@ -80,7 +80,7 @@ Here are some ideas to get you started:
   <img src = "https://img.shields.io/badge/json-%239777a8ff?style=for-the-badge&logo=json&logoColor=white" alt = "json" />
   <img src = "https://img.shields.io/badge/xml-%239777a8ff?style=for-the-badge&logo=htmx&logoColor=white" alt = "xml" />
 
-<h3> Frameworks & Libraries </h3>
+- <h3> Frameworks & Libraries </h3>
   <img src = "https://img.shields.io/badge/react-%23149ecaff?style=for-the-badge&logo=react&logoColor=white" alt = "react" />
   <img src = "https://img.shields.io/badge/laravel-%23ff2c1fff?style=for-the-badge&logo=laravel&logoColor=white" alt = "laravel" />
   <img src = "https://img.shields.io/badge/angular-%23c3002fff?style=for-the-badge&logo=angular&logoColor=white" alt = "angualar" />
@@ -93,27 +93,27 @@ Here are some ideas to get you started:
   <img src = "https://img.shields.io/badge/semantic%20ui-%2334bdb2ff?style=for-the-badge&logo=semanticui&logoColor=white" alt = "semanticui" />
   
 
-<h3> Ecommerce </h3>
+- <h3> Ecommerce </h3>
   <img src = "https://img.shields.io/badge/vtex.io-%23f71962ff?style=for-the-badge&logo=vtex&logoColor=white" alt = "vtex" />
   <img src = "https://img.shields.io/badge/woocommerce-%23674399ff?style=for-the-badge&logo=woocommerce&logoColor=white" alt = "woocommerce" />
   <img src = "https://img.shields.io/badge/shopify-%235b9a27ff?style=for-the-badge&logo=shopify&logoColor=white" alt = "shopify" />
   <img src = "https://img.shields.io/badge/salesforce-%2300a1e0ff?style=for-the-badge&logo=salesforce&logoColor=white" alt = "salesforce" />
 
 
-<h3> Database </h3>
+- <h3> Database </h3>
   <img src = "https://img.shields.io/badge/mysql-%2300618cff?style=for-the-badge&logo=mysql&logoColor=black&titleColor=black" alt = "mysql" />
   <img src = "https://img.shields.io/badge/oracledb-%23ed1b24ff?style=for-the-badge&logo=oracle&logoColor=white" alt = "oracle" />
   <img src = "https://img.shields.io/badge/postgresql-%23336791ff?style=for-the-badge&logo=postgresql&logoColor=white" alt = "postgresql" />
   <img src = "https://img.shields.io/badge/sqlserver-%23ac353bff?style=for-the-badge&logo=sqlserver&logoColor=white" alt = "sqlserver" />
 
 
-<h3> Operative Systems for developing</h3>
+- <h3> Operative Systems for developing</h3>
   <img src = "https://img.shields.io/badge/macos-%231ba7f8ff?style=for-the-badge&logo=apple&logoColor=white" alt = "macos" />
   <img src = "https://img.shields.io/badge/linux-%23000000?style=for-the-badge&logo=linux&logoColor=white" alt = "linux" />
   <img src = "https://img.shields.io/badge/windows-%230178d4ff?style=for-the-badge&logo=windows&logoColor=white" alt = "windows" />
 
 
-<h3> Designing Tools</h3>
+- <h3> Designing Tools</h3>
   <img src = "https://img.shields.io/badge/inkscape-323330?style=for-the-badge&logo=inkscape&logoColor=white" alt = "inkscape" />
   <img src = "https://img.shields.io/badge/adobe%20illustrator-%23cc7c02?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt = "illustrator" />
   <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
@@ -121,7 +121,7 @@ Here are some ideas to get you started:
     <img src = "https://img.shields.io/badge/adobe%20xd-%23141414.svg?style=for-the-badge&logo=adobe%20xd&logoColor=white" alt = "adobe%20xd" />
 
 
-<h3>Tools</h3>
+- <h3>Tools</h3>
   <img src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" alt = "Git" />
   <img src = "https://img.shields.io/badge/Github-%23121011?style=for-the-badge&logo=Github&logoColor=white" alt = "Github" />
   <img src = "https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt = "visual-studio-code" />
