@@ -154,6 +154,6 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <br/>
-<footer class="main-footer" align="center">
-    <p class="text-footer" id="text-footer"><b>Make with 🎸, 🍺, ☕ by Miguel Fletes</b></p>
-</footer>
+<div align="center">
+    <p><b>Make with 🎸, 🍺, ☕ by Miguel Fletes</b></p>
+</div>
