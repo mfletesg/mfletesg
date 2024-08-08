@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 
 #### Software Engineer graduated from Instituto Tecnológico de Colima as a Computer Engineer specializing in "High Performance Software", passionate about Open Source technologies.
 
+
 ```json
 {
   "city": ["📍 Colima, Colima, México", "📍 Guadalajara, Jalisco, México"],
@@ -149,3 +150,10 @@ Here are some ideas to get you started:
     <img src = "https://img.shields.io/badge/Wireshark-%23000000?style=for-the-badge&logo=Wireshark&logoColor=white" alt = "Wireshark" />
     <img src = "https://img.shields.io/badge/burpsuite-%23000000?style=for-the-badge&logo=burpsuite&logoColor=white" alt = "burpsuite" />
     <img src = "https://img.shields.io/badge/hydra-%23000000?style=for-the-badge&logo=hyper&logoColor=white" alt = "hydra" />
+
+<br/>
+<br/>
+<br/>
+<footer class="main-footer" align="center">
+    <p class="text-footer" id="text-footer"><b>Make with 🎸, 🍺, ☕ by Miguel Fletes</b></p>
+</footer>
