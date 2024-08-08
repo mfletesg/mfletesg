@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 
 ```json
 {
-  "city": ["📍Colima, Colima, Mexico", "📍Guadalajara, Jalisco, Mexico"],
+  "city": ["📍 Colima, Colima, México", "📍 Guadalajara, Jalisco, México"],
   "favoriteLanguage": ["PHP", "Javascript"],
-  "hobbies": ["Listen Rock Music 🎸", "Read", "Drink Beer", "Watch the Sunset :)"],
-  "webPage": "[enlace](https://miguelfletes.com)",
+  "hobbies": ["Listen Rock Music", "Read", "Drink Beer", "Watch the Sunset :)"],
+  "webPage": "https://miguelfletes.com",
   "linkedIn": "https://www.linkedin.com/in/miguelfletes/",
   "song": "Everlong - Foo Fighters ❤️"
 }
@@ -149,5 +149,3 @@ Here are some ideas to get you started:
     <img src = "https://img.shields.io/badge/Wireshark-%23000000?style=for-the-badge&logo=Wireshark&logoColor=white" alt = "Wireshark" />
     <img src = "https://img.shields.io/badge/burpsuite-%23000000?style=for-the-badge&logo=burpsuite&logoColor=white" alt = "burpsuite" />
     <img src = "https://img.shields.io/badge/hydra-%23000000?style=for-the-badge&logo=hyper&logoColor=white" alt = "hydra" />
-
-    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5j9R3LNUGd4I8wb9owrPPy?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
