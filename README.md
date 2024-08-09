@@ -83,10 +83,12 @@ Here are some ideas to get you started:
   <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
   <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
   <img src = "https://img.shields.io/badge/json-%239777a8ff?style=for-the-badge&logo=json&logoColor=white" alt = "json" />
-  <img src = "https://img.shields.io/badge/xml-%239777a8ff?style=for-the-badge&logo=htmx&logoColor=white" alt = "xml" />
+  <img src = "https://img.shields.io/badge/xml-%23364148ff?style=for-the-badge&logo=htmx&logoColor=white" alt = "xml" />
 
 - <h3> Frameworks & Libraries </h3>
-  <img src = "https://img.shields.io/badge/react-%23149ecaff?style=for-the-badge&logo=react&logoColor=white" alt = "react" />
+  <a href="https://react.dev/" target="blank">
+    <img src = "https://img.shields.io/badge/react-%23149ecaff?style=for-the-badge&logo=react&logoColor=white" alt = "react" />
+  </a>
   <img src = "https://img.shields.io/badge/laravel-%23ff2c1fff?style=for-the-badge&logo=laravel&logoColor=white" alt = "laravel" />
   <img src = "https://img.shields.io/badge/angular-%23c3002fff?style=for-the-badge&logo=angular&logoColor=white" alt = "angualar" />
   <img src = "https://img.shields.io/badge/ionic-%233a7dffff?style=for-the-badge&logo=ionic&logoColor=white" alt = "ionic" />
@@ -96,7 +98,11 @@ Here are some ideas to get you started:
   <img src = "https://img.shields.io/badge/spring-%236db23eff?style=for-the-badge&logo=spring&logoColor=white" alt = "spring" />
   <img src = "https://img.shields.io/badge/vue.js-%2300c180ff?style=for-the-badge&logo=vue.js&logoColor=white" alt = "vue.js" />
   <img src = "https://img.shields.io/badge/semantic%20ui-%2334bdb2ff?style=for-the-badge&logo=semanticui&logoColor=white" alt = "semanticui" />
+  <a href="https://getbootstrap.com/" target="blank">
+    <img src = "https://img.shields.io/badge/bootstrap-%23364148ff?style=for-the-badge&logo=bootstrap&logoColor=white" alt = "bootstrap">
+  </a>
   
+
 
 - <h3> Ecommerce </h3>
   <img src = "https://img.shields.io/badge/vtex.io-%23f71962ff?style=for-the-badge&logo=vtex&logoColor=white" alt = "vtex" />
