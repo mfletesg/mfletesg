@@ -84,8 +84,8 @@ Here are some ideas to get you started:
 
 - <h3> Languages </h3>
   
-  [![image](https://img.shields.io/badge/php-%234f5b93ff?style=for-the-badge&logo=php&logoColor=white)]("https://www.php.net)
-  [![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]("https://developer.mozilla.org/es/docs/Web/JavaScript)
+  [![image](https://img.shields.io/badge/php-%234f5b93ff?style=for-the-badge&logo=php&logoColor=white)]("https://www.php.net")
+  [![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]("https://developer.mozilla.org/es/docs/Web/JavaScript")
 
   <!-- <a href="https://www.php.net" target="blank" style="text-decoration: none;">
     <img src = "https://img.shields.io/badge/php-%234f5b93ff?style=for-the-badge&logo=php&logoColor=white" alt = "php" />
