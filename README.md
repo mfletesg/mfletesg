@@ -83,12 +83,16 @@ Here are some ideas to get you started:
 - 🐧Proficiency in Linux distributions for software development with terminal (Ubuntu).
 
 - <h3> Languages </h3>
-  <a href="https://www.php.net" target="blank" style="text-decoration: none;">
+  
+  [![image](https://img.shields.io/badge/php-%234f5b93ff?style=for-the-badge&logo=php&logoColor=white)]("https://www.php.net)
+  [![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]("https://developer.mozilla.org/es/docs/Web/JavaScript)
+
+  <!-- <a href="https://www.php.net" target="blank" style="text-decoration: none;">
     <img src = "https://img.shields.io/badge/php-%234f5b93ff?style=for-the-badge&logo=php&logoColor=white" alt = "php" />
-  </a>
-  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="blank"  style="text-decoration: none;">
+  </a> -->
+  <!-- <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="blank"  style="text-decoration: none;">
     <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
-  </a>
+  </a> -->
   <a href="https://www.typescriptlang.org" target="blank"  style="text-decoration: none;">
     <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" />
   </a>
