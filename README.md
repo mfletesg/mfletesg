@@ -176,5 +176,10 @@ Here are some ideas to get you started:
 <br/>
 
 <div align="center">
+  <img src="./img/ff-the-colour-and-the-shape.jpeg" width =200" >
+</div>
+
+<div align="center">
+<br/>
     <p><b>Make with 🎸, 🍺, ☕ by Miguel Fletes</b></p>
 </div>
