@@ -176,7 +176,9 @@ Here are some ideas to get you started:
 <br/>
 
 <div align="center">
-  <img src="./img/ff-the-colour-and-the-shape.jpeg" width =200" >
+  <a href="https://youtu.be/UWgEPLkW2gE?si=EODfGmmGgfGz5grZ">
+    <img src="./img/ff-the-colour-and-the-shape.jpeg" width="200" >
+  </a>
 </div>
 
 <div align="center">
