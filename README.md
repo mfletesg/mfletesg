@@ -83,13 +83,13 @@ Here are some ideas to get you started:
 - 🐧Proficiency in Linux distributions for software development with terminal (Ubuntu).
 
 - <h3> Languages </h3>
-  <a href="https://www.php.net" target="blank">
+  <a href="https://www.php.net" target="blank" style="text-decoration:none">
     <img src = "https://img.shields.io/badge/php-%234f5b93ff?style=for-the-badge&logo=php&logoColor=white" alt = "php" />
   </a>
-  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="blank">
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="blank"  style="text-decoration:none">
     <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
   </a>
-  <a href="https://www.typescriptlang.org" target="blank">
+  <a href="https://www.typescriptlang.org" target="blank"  style="text-decoration:none">
     <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" />
   </a>
   <a href="https://dev.w3.org/html5/spec-LC/" target="blank">
@@ -106,7 +106,7 @@ Here are some ideas to get you started:
   </a>
 
 - <h3> Frameworks & Libraries </h3>
-  <a href="https://getbootstrap.com/" target="blank">
+  <a href="https://react.dev/" target="blank">
     <img src = "https://img.shields.io/badge/react-%23149ecaff?style=for-the-badge&logo=react&logoColor=white" alt = "react" />
   </a>
   <a href="https://laravel.com" target="blank">
