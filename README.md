@@ -64,13 +64,17 @@ Here are some ideas to get you started:
 
 - ‍👾 Laravel Framework Experience using Seeders, Controllers, Migrations, Eloquent ORM, Blade, Middleware’s, Models, Composer and REST FULL Service.
 
-- 🛒 Experience to perform integrations and components with ReactJS, Store Theme and Master Data v2 in VTEX.IO platform.
+- 🛒 Experience to perform integrations, create ecommerce and components with ReactJS, Store Theme, CSS, APIs Rest and Master Data v2 in VTEX.IO platform.
+
+- 💻 Experience in creating Front-End applications with Vanilla JS, React, Angular, and Vue.js.
+
+- 🌐 Experience in creating REST APIs with Node.js, using frameworks such as NestJS, LoopBack 4, and Express.js, integrating their respective ORMs, and documenting the APIs with Swagger.
+
+- 🛒 Experience in creating websites and e-commerce platforms with WooCommerce and WordPress.
 
 - 🎨 Knowledge in Integration Development with Salesforce APEX.
 
 - 📱 Experience in mobile app development with the IONIC Framework, using Angular with the use of libraries such as Facebook API, Twitter, Google Cloud, Maps and Firebase.
-  
-- ‍💻 Knowledge for creating a REST API using Javascript and Typescript (Express.Js, NestJs, Loopback 4).
 
 - 📄 Knowledge in other technologies such as Java, Python, HTML, Git, XML, CSS, CSV, Bootstrap, Babel, Semantic UI, JQuery, JSON.
   
