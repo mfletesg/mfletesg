@@ -1,7 +1,7 @@
 <img src="./img/IMG_7490.jpg"></img>
 
 <h1 align="center">
-<b>< I'm  <a href="https://miguelfletes.com" target="blank" style="color:#2d7dfc"> Miguel Fletes </a> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> />
+<b>< I'm  <a href="https://www.linkedin.com/in/miguelfletes" target="blank" style="color:#2d7dfc"> Miguel Fletes </a> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> />
 <h3 align="center">Software Engineer</h3>
 </h1>
 
