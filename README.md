@@ -180,7 +180,7 @@ Here are some ideas to get you started:
 <br/>
 
 <div align="center">
-  <a href="https://youtu.be/UWgEPLkW2gE?si=EODfGmmGgfGz5grZ">
+  <a href="https://youtu.be/UWgEPLkW2gE?si=EODfGmmGgfGz5grZ" target="_blank">
     <img src="./img/ff-the-colour-and-the-shape.jpeg" width="200" >
   </a>
 </div>
