@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ```json
 {
   "city": ["📍 Colima, Colima, México", "📍 Guadalajara, Jalisco, México"],
-  "favoriteLanguage": ["PHP", "Javascript"],
+  "favoriteLanguage": ["PHP", "Javascript", "TypeScript"],
   "hobbies": ["Listen Rock Music", "Read", "Drink Beer", "Watch the Sunset :)"],
   "webPage": "https://miguelfletes.com",
   "linkedIn": "https://www.linkedin.com/in/miguelfletes/",
