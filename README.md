@@ -53,14 +53,16 @@ Here are some ideas to get you started:
   [![image](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelfg94@outlook.com)
   <br><br/>
 </div>
-<br>
+
 
 
 <div align="center">
 <img src="./img/photo_2024-12-14_19-53-34.jpg" width="400"></img>
 </div>
+<br>
 
 ## <img src="./img/code.webp" width ="25"><b> Skills</b>
+
 <br>
 
 - ‍👾 Laravel Framework Experience using Seeders, Controllers, Migrations, Eloquent ORM, Blade, Middleware’s, Models, Composer and REST FULL Service.
@@ -179,6 +181,22 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <br/>
+
+## 🌴 In Colima, México ❤️
+<div align="center">
+<img src="./img/photo_2024-12-14_23-59-46.jpg" width="400"></img>
+</div>
+
+<br/>
+<br/>
+<br/>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
 
 <div align="center">
   <a href="https://youtu.be/UWgEPLkW2gE?si=EODfGmmGgfGz5grZ" target="_blank">
