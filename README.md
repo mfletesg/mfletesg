@@ -7,7 +7,7 @@
 
 
 <div align="center">
-<img  src="./img/bar.gif" width="200"></img>
+<img  src="./img/bar.gif" ></img>
 </div>
 
 <!--
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-<img src="./img/photo_2024-12-14_19-53-34.jpg"></img>
+<img src="./img/photo_2024-12-14_19-53-34.jpg" width="400"></img>
 </div>
 
 ## <img src="./img/code.webp" width ="25"><b> Skills</b>
